@@ -1,8 +1,5 @@
 /* principal */
 
-.body{
-    background-image: url(./escudo-Midland-6.png);
-}
 
 /* contenedor principal */
 .contenedor {
@@ -22,6 +19,8 @@
 
 /* título principal dentro del encabezado */
 .header h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
     text-align: center;
     margin: 0;
 }
@@ -60,13 +59,20 @@ h2 {
 
 /* cambio de color */
 .fuente-link:visited {
-    color: #551a8b;
+    color:blue;
 }
 
 /* cambio de color */
 .instagram-link:visited {
-    color: #551a8b;
+    color:blue;
 }
+ .fuente-link:hover{
+    color:darkmagenta;
+ }
+
+ .instagram-link:hover{
+    color:darkmagenta;
+ }
 
 
 /* pie de pagina */
