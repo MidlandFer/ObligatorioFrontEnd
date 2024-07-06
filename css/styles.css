@@ -57,28 +57,32 @@ h2 {
     border-radius: 5px;
 }
 
-/* cambio de color */
+/* cambio de color al ser visitado */
 .fuente-link:visited {
     color:blue;
 }
 
-/* cambio de color */
+/* cambio de color al ser visitado */
 .instagram-link:visited {
     color:blue;
 }
+
+/* cambio de color al pasar el cursor*/
  .fuente-link:hover{
     color:darkmagenta;
  }
 
+/* cambio de color al pasar el cursor*/
  .instagram-link:hover{
     color:darkmagenta;
  }
+ 
+ /* centro el escudo*/
  .escudo {
     display: block;
     width: 50%;
     margin: auto;
   }
-
 
 /* pie de pagina */
 .footer {
