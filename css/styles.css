@@ -1,8 +1,9 @@
 /* contenedor principal */
 .contenedor {
-    background-color: #f9f9f9;
+    background-color: #9da5eb;
     padding: 20px;
     border-radius: 10px;
+    margin-top: 20px;
 }
 
 /* encabezado en el contenedor */
@@ -22,10 +23,6 @@
     margin: 0;
 }
 
-/* contenido dentro del contenedor */
-.contenedor {
-    margin-top: 20px;
-}
 
 /*  subtitulo  */
 h2 {
@@ -34,6 +31,7 @@ h2 {
 
 /* parrafo de contenido */
 .central p {
+    background-color: aqua;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
         color: #181818;
