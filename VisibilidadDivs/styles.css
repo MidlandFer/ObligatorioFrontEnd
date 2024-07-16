@@ -1,3 +1,4 @@
+/*contenedor general*/
 #container {
     display: flex;
     border: 3px solid rgb(19, 26, 87);
@@ -5,21 +6,22 @@
     height: 200px;
 }
 
-.contenido {
+.content {
     flex: 1;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color:aqua;
+    background-color:cadetblue;
     position: relative;
     visibility: visible;
 }
 
-.contenidoOculto {
+.hidden {
     visibility: hidden;
 }
 
 button {
-    position:absolute;
-    bottom: 10px;
+    position: absolute;
+    bottom: 15px;
+    border-color: darkcyan;
 }
