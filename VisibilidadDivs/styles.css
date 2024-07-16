@@ -3,9 +3,9 @@
     display: flex;
     border: 3px solid rgb(19, 26, 87);
     width: 100%;
-    height: 200px;
+    height: 300px;
 }
-
+/*contenedor divs*/
 .content {
     flex: 1px;
     display: flex;
@@ -15,11 +15,11 @@
     position: relative;
     visibility: visible;
 }
-
+/*visibilidad*/
 .hidden {
     visibility: hidden;
 }
-
+/*botones*/
 button {
     position: absolute;
     border-color: darkcyan;
