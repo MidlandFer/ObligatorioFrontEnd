@@ -1,5 +1,5 @@
 /*contenedor general*/
-#container {
+#contenedor {
     display: flex;
     border: 3px solid rgb(19, 26, 87);
     width: 100%;
@@ -7,7 +7,7 @@
 }
 
 .content {
-    flex: 1;
+    flex: 1px;
     display: flex;
     justify-content: center;
     align-items: center;
