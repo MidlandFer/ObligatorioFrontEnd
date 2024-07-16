@@ -4,4 +4,5 @@ function toggleDivs() {
     
     div1.classList.toggle("hidden");
     div2.classList.toggle("hidden");
+    
 }
