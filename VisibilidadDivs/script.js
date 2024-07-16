@@ -1,5 +1,5 @@
 "use strict";
-/* Funcion para Alternar divs*/
+/* funcion para alternar divs*/
 function toggleDivs() {
     const div1 = document.getElementById("div1");
     const div2 = document.getElementById("div2");
